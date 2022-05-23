@@ -35,6 +35,9 @@ class MainActivity : AppCompatActivity() {
 
         var occupation = "developer"
 
+
+        var name = "jared"
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
